@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTC.SecondKill", "GTC.SecondKill\GTC.SecondKill.csproj", "{AE42D50B-5DB5-499E-9069-574E2135F1BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTC.SecondKill.Http", "GTC.SecondKill.Http\GTC.SecondKill.Http.csproj", "{B54EFD01-0B4E-4EC6-8D9F-2228D9A9765A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE42D50B-5DB5-499E-9069-574E2135F1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE42D50B-5DB5-499E-9069-574E2135F1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE42D50B-5DB5-499E-9069-574E2135F1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE42D50B-5DB5-499E-9069-574E2135F1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B54EFD01-0B4E-4EC6-8D9F-2228D9A9765A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54EFD01-0B4E-4EC6-8D9F-2228D9A9765A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54EFD01-0B4E-4EC6-8D9F-2228D9A9765A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54EFD01-0B4E-4EC6-8D9F-2228D9A9765A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

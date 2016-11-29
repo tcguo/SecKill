@@ -1,0 +1,8 @@
+# 此为注释 – 将被 Git 忽略
+*.svn
+GTC.Http/*.svn
+GTC.SecondKill/*.svn
+GTC.SecondKill.Http/*.svn
+packages/*.svn
+.DS_Store
+

@@ -1,0 +1,12 @@
+C:\Users\gtc\GTC.SecondKill\GTC.SecondKill.Http\bin\Release\GTC.SecondKill.Http.dll
+C:\Users\gtc\GTC.SecondKill\GTC.SecondKill.Http\bin\Release\GTC.SecondKill.Http.pdb
+C:\Users\gtc\GTC.SecondKill\GTC.SecondKill.Http\bin\Release\Newtonsoft.Json.dll
+C:\Users\gtc\GTC.SecondKill\GTC.SecondKill.Http\bin\Release\Newtonsoft.Json.xml
+C:\Users\gtc\GTC.SecondKill\GTC.SecondKill.Http\obj\Release\GTC.SecondKill.Http.dll
+C:\Users\gtc\GTC.SecondKill\GTC.SecondKill.Http\obj\Release\GTC.SecondKill.Http.pdb
+D:\GTC.SecondKill\GTC.SecondKill.Http\bin\Release\GTC.SecondKill.Http.dll
+D:\GTC.SecondKill\GTC.SecondKill.Http\bin\Release\GTC.SecondKill.Http.pdb
+D:\GTC.SecondKill\GTC.SecondKill.Http\bin\Release\Newtonsoft.Json.dll
+D:\GTC.SecondKill\GTC.SecondKill.Http\bin\Release\Newtonsoft.Json.xml
+D:\GTC.SecondKill\GTC.SecondKill.Http\obj\Release\GTC.SecondKill.Http.dll
+D:\GTC.SecondKill\GTC.SecondKill.Http\obj\Release\GTC.SecondKill.Http.pdb
